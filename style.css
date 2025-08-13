@@ -1,0 +1,10 @@
+.swiper {
+  width: 600px;
+  height: 300px; 
+  display: flex;
+  margin-top: 100px;
+}
+img{
+    height: 350px;
+    width: 600px;
+}
